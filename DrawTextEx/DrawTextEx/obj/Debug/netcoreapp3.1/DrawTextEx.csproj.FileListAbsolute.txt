@@ -1,0 +1,13 @@
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\bin\Debug\netcoreapp3.1\DrawTextEx.exe
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\bin\Debug\netcoreapp3.1\DrawTextEx.deps.json
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\bin\Debug\netcoreapp3.1\DrawTextEx.runtimeconfig.json
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\bin\Debug\netcoreapp3.1\DrawTextEx.runtimeconfig.dev.json
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\bin\Debug\netcoreapp3.1\DrawTextEx.dll
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\bin\Debug\netcoreapp3.1\DrawTextEx.pdb
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\obj\Debug\netcoreapp3.1\DrawTextEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\obj\Debug\netcoreapp3.1\DrawTextEx.AssemblyInfoInputs.cache
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\obj\Debug\netcoreapp3.1\DrawTextEx.AssemblyInfo.cs
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\obj\Debug\netcoreapp3.1\DrawTextEx.csproj.CoreCompileInputs.cache
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\obj\Debug\netcoreapp3.1\DrawTextEx.dll
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\obj\Debug\netcoreapp3.1\DrawTextEx.pdb
+C:\Users\bests\source\repos\DrawTextEx\DrawTextEx\obj\Debug\netcoreapp3.1\DrawTextEx.genruntimeconfig.cache
